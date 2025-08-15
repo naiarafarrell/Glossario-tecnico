@@ -1,2 +1,2 @@
-# Gloss-rio-t-cnico
+# Glossario-tecnico
 Projeto glossário técnico desenvolvido em HTML, CSS e JS.
